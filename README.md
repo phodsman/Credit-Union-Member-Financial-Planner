@@ -26,7 +26,7 @@ Run the program `financial_planning_tools.ipynb` in Jupyter Lab.
 
 You will see output that looks like this:
 
-![]()
+![](https://raw.githubusercontent.com/phodsman/Credit-Union-Member-Financial-Planner/main/Screenshot%202021-10-21%20111625.png)
 
 ## Contributors
 This program was written by Preston Hodsman based on a request for analysis from Trilogy Education Services, a 2U, Inc.
